@@ -1,4 +1,4 @@
-#Personal Finance Dashboard in Power BI
+###Personal Finance Dashboard in Power BI
 Project Overview
 This project aims to create a personal finance dashboard in Power BI, enabling individuals to track their personal expenses, income, and financial goals. The dashboard provides a comprehensive and interactive visualization of financial data, helping users to make informed decisions about their financial lives.
 
